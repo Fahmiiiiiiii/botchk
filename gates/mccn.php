@@ -32,7 +32,7 @@ edit_message($chatId," Startedd....",$message_id_1);
 while($c>0)
 {
 
-$sk ="sk_live_Q0gQC9coYUIiUshIHCdWKBiD";
+$sk ="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";
 
 //------[Randomize Description]------//
 $word = array(
@@ -497,7 +497,7 @@ if(strpos($result2, "Security code is incorrect"))
 
 $rslt = "
 CHARGED : <code> $lista </code>
-𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @byte_coders ✅
+𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @junednyeker ✅
  ";
 goto hits;
 
@@ -507,7 +507,7 @@ elseif(strpos($pin, "incorrect_cvc"))
 
 $rslt = "
 CHARGED : <code> $lista </code>
-𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @byte_coders ✅
+𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @junednyeker ✅
  ";
   goto hits;
 }
@@ -516,7 +516,7 @@ CHARGED : <code> $lista </code>
 
 $rslt = "
 CHARGED : <code> $lista </code>
-𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @byte_coders ✅
+𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @junednyeker ✅
  ";
   goto hits;
 }
@@ -537,14 +537,14 @@ CVV : <code> $lista </code>
 elseif(strpos($result2, "Thank You for your donation")) {
     $rslt = "
 CHARGED : <code> $lista </code>
-𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @byte_coders ✅
+𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @junednyeker ✅
  ";
   goto hits;
 }
 elseif(strpos($result2, "Thank you")) {
    $rslt = "
 CHARGED : <code> $lista </code>
-𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @byte_coders ✅
+𝘾𝘾𝙉 𝘾𝙃𝘼𝙍𝙂𝙀𝘿 $1 @junednyeker ✅
  ";
   goto hits;
 }
